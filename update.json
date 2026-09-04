@@ -1,6 +1,6 @@
 {
-  "version": "2.11.0",
-  "timestamp": 1788513224,
+  "version": "2.11.1",
+  "timestamp": 1788513464,
   "files": {
     "flooder": "d39ce59841f5b90c8fcf32a8a6fff5eca627baecb3d2c286ba3f4a0267ed70d4",
     "browser": "e9499a6d129bdd9685d84f8a07066af56ca2731505c7e39f8c172a7c2755829f",
@@ -8,6 +8,6 @@
     "core_remote.py": "c6ab64451b51db3d824116a286b625c116acf3e9246d4d116cb9f8bb8622c34e",
     "core_scan.py": "3952ef6e75b9904bd68bd261eb4158ec263ca6ecd9794f4136952544fa07dbb2",
     "deploy.py": "bd227bf8817c12500d58c9d8c83476666efc8454c546ef83b3206fc7a751f57a",
-    "core_update.py": "37eb23d2cb21b3e649b32e8f799347cd6e0d5c9effd5ba11d8209378ae08a36c"
+    "core_update.py": "b47ceabd8c660e342b091ef8932293897f71b4c2bf8a3f287f463479b3be0ccf"
   }
 }
