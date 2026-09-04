@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "timestamp": 1788500490,
+  "files": {
+    "controller.py": "05f64c864d3ed281585177d85479ddd40a344ffebbad2e10c30478801a5a61d8",
+    "core_remote.py": "7ff4a3c01df6dc5d0b72a46e4cbdfacf6ea3cda63029b002f8059551fd8d2137",
+    "core_scan.py": "3952ef6e75b9904bd68bd261eb4158ec263ca6ecd9794f4136952544fa07dbb2",
+    "deploy.py": "bd227bf8817c12500d58c9d8c83476666efc8454c546ef83b3206fc7a751f57a",
+    "core_update.py": "093f870a422f8b2cde0815d7ef60b3e27461711cd5d5d8d53b7e35f41f18d2e9"
+  }
+}
