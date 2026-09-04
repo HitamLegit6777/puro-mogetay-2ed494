@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "timestamp": 1788500947,
+  "version": "2.3.0",
+  "timestamp": 1788501094,
   "files": {
-    "controller.py": "f6da2002536a0a0c642e97a7a55a21d90f29e22a37c99568bbc63f82625392cf",
+    "controller.py": "12a48fc99eb95512019bd841e00f6d1ff0284c48d55915db31116eb44c58c351",
     "core_remote.py": "7ff4a3c01df6dc5d0b72a46e4cbdfacf6ea3cda63029b002f8059551fd8d2137",
     "core_scan.py": "3952ef6e75b9904bd68bd261eb4158ec263ca6ecd9794f4136952544fa07dbb2",
     "deploy.py": "bd227bf8817c12500d58c9d8c83476666efc8454c546ef83b3206fc7a751f57a",
