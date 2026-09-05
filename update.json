@@ -1,11 +1,11 @@
 {
-  "version": "2.15.1",
-  "timestamp": 1788605021,
+  "version": "2.15.2",
+  "timestamp": 1788606252,
   "files": {
     "flooder": "d76f433b1866b480c70817db1583b877da55eb9ef7aef2495e830a2bde6f8f43",
     "browser": "480f7536bfaef62dc0d31a9c14fcbf5da76384c588f771e311c2a2e024c4f578",
     "installer.sh": "5c34e5463fe748d35d44daf90e1169a6dd34061c854c656d6d1fcf7f4a799100",
-    "controller.py": "6a9043364c43c7af4e74c9ee73f4736f4408d7075a422a99c653c79da6cd917a",
+    "controller.py": "f1461fed937b6979a936e204a984d07168a455020b22b5d5e6160eb12d260797",
     "core_remote.py": "bc3418ab29e4515793eae2255acebf0b75f03a3289c5c7ecd68a7c8b4d99f6d0",
     "core_scan.py": "3952ef6e75b9904bd68bd261eb4158ec263ca6ecd9794f4136952544fa07dbb2",
     "deploy.py": "bd227bf8817c12500d58c9d8c83476666efc8454c546ef83b3206fc7a751f57a",
