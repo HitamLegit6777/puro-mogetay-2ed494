@@ -1,11 +1,12 @@
 {
-  "version": "2.14.1",
-  "timestamp": 1788597664,
+  "version": "2.15.0",
+  "timestamp": 1788602044,
   "files": {
-    "flooder": "842ffd43fd96d14e10fcbced237a99884d265b757f2bf34c1ea959eb86177f10",
+    "flooder": "1fd5ccfffbe32b1dccdfc12754cb8c4a4e4a10f127276659c5fde47166fe34ee",
     "browser": "480f7536bfaef62dc0d31a9c14fcbf5da76384c588f771e311c2a2e024c4f578",
+    "installer.sh": "5c34e5463fe748d35d44daf90e1169a6dd34061c854c656d6d1fcf7f4a799100",
     "controller.py": "6a9043364c43c7af4e74c9ee73f4736f4408d7075a422a99c653c79da6cd917a",
-    "core_remote.py": "7abc5affdc292211453c51f375f0d38289d057e8884305f7afc91cb205840a71",
+    "core_remote.py": "cbec8c4f379ffd05401e3cdb0838f03e097af5e4e73452750204546e713d0157",
     "core_scan.py": "3952ef6e75b9904bd68bd261eb4158ec263ca6ecd9794f4136952544fa07dbb2",
     "deploy.py": "bd227bf8817c12500d58c9d8c83476666efc8454c546ef83b3206fc7a751f57a",
     "core_update.py": "e80a5cf9240a8ea42ef515f57230f6273b650014ded5300a20b0639117b44feb"
