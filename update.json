@@ -1,6 +1,6 @@
 {
-  "version": "2.16.5",
-  "timestamp": 1788699494,
+  "version": "2.16.6",
+  "timestamp": 1788699789,
   "files": {
     "flooder": "d76f433b1866b480c70817db1583b877da55eb9ef7aef2495e830a2bde6f8f43",
     "browser": "480f7536bfaef62dc0d31a9c14fcbf5da76384c588f771e311c2a2e024c4f578",
@@ -19,7 +19,7 @@
     "stealth.go": "2d4ff726fb482177e0bd887aa875cc7f7062da930ea9d5f7857a6f8cf9ba1eb5",
     "go.mod": "44747971162760a25ee74ba30718c399cce36d63dfe1cec1ccf699ab6f12be50",
     "go.sum": "08460f8a3f23acfbccd80346f43e543757430e11006c6eae540dd2303148a169",
-    "controller.py": "68918db8b5c856d6ec8b8acb3f7ad984f3c622f591783f13b824073e66648857",
+    "controller.py": "423b4dd7e089af5977945ba6812308c54c6fee183a781f5c745ecd8e6a44d6aa",
     "core_remote.py": "bc3418ab29e4515793eae2255acebf0b75f03a3289c5c7ecd68a7c8b4d99f6d0",
     "core_scan.py": "545009fcecaa5417ce1ff648dc4d7256e52b0aa20cece51062969f2d329d7895",
     "deploy.py": "bd227bf8817c12500d58c9d8c83476666efc8454c546ef83b3206fc7a751f57a",
