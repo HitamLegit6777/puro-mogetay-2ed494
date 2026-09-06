@@ -1,6 +1,6 @@
 {
-  "version": "2.16.1",
-  "timestamp": 1788683123,
+  "version": "2.16.2",
+  "timestamp": 1788683674,
   "files": {
     "flooder": "d76f433b1866b480c70817db1583b877da55eb9ef7aef2495e830a2bde6f8f43",
     "browser": "480f7536bfaef62dc0d31a9c14fcbf5da76384c588f771e311c2a2e024c4f578",
@@ -10,6 +10,9 @@
     "flood/fingerprint.go": "9a8689b9dc6dd471e475b84a74e97cb75ca80032d12b48377be5988f454db008",
     "flood/go.mod": "d416ebba207664eb0f4037edd8f9a9e0e96a150a62aa77206994bce19041adff",
     "flood/go.sum": "1bdc30945bcbf366870ee6077437266719096f2c614cffd6c2b3ae75830e65f2",
+    "temp_core/core.go": "377476f5cf04cd3bb2e363b02b90243f54bfd7b91ab153f44cf65a88d1807e83",
+    "temp_core/go.mod": "1d52b1792dfbf3f5579683ead06cb7c20d2ce0c79b142f0ade4a19f6e19d4551",
+    "temp_core/go.sum": "266ff37cd8ea31f03be6e461e5a78c9ba23eae3fab3f674ccd977a962ea89419",
     "browser.go": "292b72861158ca721f1d4ade681c2c68c7c7cb16e588c50c33b351065376ab54",
     "config.go": "a7da3a9aabb8cb5c33869b14e577f6832315379b444ef490be78d10fc4353efe",
     "proxy.go": "b64d751684619450dc948671865ab618422f3d28fd061a1efa61e9bc8c09c6d1",
@@ -20,6 +23,6 @@
     "core_remote.py": "bc3418ab29e4515793eae2255acebf0b75f03a3289c5c7ecd68a7c8b4d99f6d0",
     "core_scan.py": "545009fcecaa5417ce1ff648dc4d7256e52b0aa20cece51062969f2d329d7895",
     "deploy.py": "bd227bf8817c12500d58c9d8c83476666efc8454c546ef83b3206fc7a751f57a",
-    "core_update.py": "af7fa1c5eb61817d815f5e270a9986ed47d701ceaed9debb1df91c34619a43ff"
+    "core_update.py": "5baea2074cb14dd07a7b365baa0b71505764450dceb64c5a9a2a84d59aedb6b5"
   }
 }
