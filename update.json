@@ -1,10 +1,10 @@
 {
-  "version": "2.16.3",
-  "timestamp": 1788685015,
+  "version": "2.16.4",
+  "timestamp": 1788687294,
   "files": {
     "flooder": "d76f433b1866b480c70817db1583b877da55eb9ef7aef2495e830a2bde6f8f43",
     "browser": "480f7536bfaef62dc0d31a9c14fcbf5da76384c588f771e311c2a2e024c4f578",
-    "installer.sh": "8e0c286be949b86f5fed99288fcc7c407177a60fb680dc89d50a3a4fa83e063c",
+    "installer.sh": "055032c92dcc000c4922995a7e9311303314e07d3c8c8b19dc1453ae5768cf48",
     "flood/main.go": "3b5cfedba55f47bf422ef486c9d00c5f9e1e888f640cbb36e74c58c842b6087f",
     "flood/h2_pump.go": "a81fdca15aef6196dfe85f16d8dc55198e732fcfeabcf26b9e0d4bd43bd88a01",
     "flood/fingerprint.go": "9a8689b9dc6dd471e475b84a74e97cb75ca80032d12b48377be5988f454db008",
@@ -23,6 +23,6 @@
     "core_remote.py": "bc3418ab29e4515793eae2255acebf0b75f03a3289c5c7ecd68a7c8b4d99f6d0",
     "core_scan.py": "545009fcecaa5417ce1ff648dc4d7256e52b0aa20cece51062969f2d329d7895",
     "deploy.py": "bd227bf8817c12500d58c9d8c83476666efc8454c546ef83b3206fc7a751f57a",
-    "core_update.py": "7e0b1dac172d514d1df353fbf335be60aba682fd909247e4b92b5e70c4fc02d1"
+    "core_update.py": "da78a8918b54dc5652eb4f00b0e8ac7ca424e4921177b819524869da01c334f8"
   }
 }
